@@ -101,7 +101,7 @@ Ne pas mélanger : pas d'actu immo ni d'estimateur de prix ici, pas de contenu
   « 3 %, minimum X € »). À ajouter si elle en pratique un.
 ## Contact — règle stricte
 
-- **Adresse e-mail : `contact@cse.idf.immo` uniquement.** Ne jamais remettre
+- **Adresse e-mail : `contact@idf.immo` uniquement.** Ne jamais remettre
   `contact@antony.immo` sur ce site : chaque site a son adresse.
   ⚠️ Cette boîte doit être créée (ou redirigée) chez le registrar du domaine
   `idf.immo` pour que les formulaires aboutissent.
