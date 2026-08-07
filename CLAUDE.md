@@ -101,10 +101,13 @@ Ne pas mélanger : pas d'actu immo ni d'estimateur de prix ici, pas de contenu
   « 3 %, minimum X € »). À ajouter si elle en pratique un.
 ## Contact — règle stricte
 
-- **Adresse e-mail : `contact@idf.immo` uniquement.** Ne jamais remettre
-  `contact@antony.immo` sur ce site : chaque site a son adresse.
-  ⚠️ Cette boîte doit être créée (ou redirigée) chez le registrar du domaine
-  `idf.immo` pour que les formulaires aboutissent.
+- **Adresse e-mail : `contact@idf.immo` uniquement.** Une seule boîte à la
+  racine du domaine, valable pour ce site et pour tout futur sous-domaine de
+  `idf.immo`. Ne jamais remettre `contact@antony.immo` ni
+  `contact@cse.idf.immo` : ces adresses appartiennent à d'autres sites ou
+  n'existent pas.
+  ✔ Boîte active et relevée par Marie-Céline (confirmé le 7 août 2026 ;
+  domaine géré chez Gandi, MX `spool.mail.gandi.net`).
 - **Téléphone : 06 60 98 92 92** — le même que sur antony.immo.
 
 ## Vocabulaire
