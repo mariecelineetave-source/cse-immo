@@ -8,11 +8,22 @@ partout en France**. Objectif unique : convaincre les élus d'un CSE de la
 référencer auprès de leurs salariés, pour la **vente** et la **recherche** de
 leur bien immobilier **personnel** (pas le patrimoine de l'entreprise).
 
-⚠️ **Le périmètre est national depuis le 7 août 2026** ; il était limité à
-l'Île-de-France auparavant. Ne réintroduire aucune restriction géographique
-dans les textes. Le nom de domaine, lui, contient encore `idf` : c'est un
-héritage assumé, à ne pas « corriger » dans les pages — seul un changement de
-domaine décidé par Marie-Céline pourra le résoudre.
+⚠️ **Périmètre géographique — deux régimes distincts, depuis le 7 août 2026 :**
+
+| Prestation | Périmètre | Qui fait le travail |
+|---|---|---|
+| Mandat de vente | **Toute la France** | Marie-Céline en Île-de-France ; ailleurs, un confrère qu'elle choisit, elle restant l'interlocutrice du salarié |
+| Mandat de recherche | **Toute la France** | idem |
+| Expertise en valeur vénale | **Île-de-France uniquement** | Marie-Céline personnellement — un rapport engage celle qui le signe, il n'est jamais délégué |
+
+Ne jamais étendre l'expertise au national, ni restreindre la vente et la
+recherche à l'Île-de-France. Ne jamais laisser croire que Marie-Céline se
+déplace elle-même partout en France : le réseau de confrères est assumé et
+expliqué, c'est ce qui rend la promesse crédible.
+
+Le nom de domaine contient encore `idf` : héritage assumé, à ne pas
+« corriger » dans les pages — seul un changement de domaine décidé par
+Marie-Céline pourra le résoudre.
 
 L'offre nationale ouvre un argument propre aux **entreprises multi-sites** : un
 accord avec le comité couvre tous les établissements, pas seulement le siège.
@@ -58,8 +69,9 @@ Ne pas mélanger : pas d'actu immo ni d'estimateur de prix ici, pas de contenu
 
 - `index.html` — la proposition aux comités d'entreprise (page principale,
   CSS et JS inclus). Sections : héros, chiffres clés, pourquoi cet avantage,
-  simulateur d'économie, l'offre en trois volets, ce que reçoit le salarié,
-  rôle du CSE (ce qu'il fait / ne fait pas), mise en place en 4 étapes, bande
+  simulateur d'économie, l'offre en trois volets, **« Partout en France » (qui
+  fait le travail, et pourquoi Marie-Céline reste l'interlocutrice)**, ce que
+  reçoit le salarié, rôle du CSE (ce qu'il fait / ne fait pas), mise en place, bande
   expertise 990 €, l'interlocutrice, FAQ des élus, formulaire de demande.
 - `expertise.html` — l'expertise en valeur vénale, tarif CSE à 990 €.
 - `mentions-legales.html` — mentions légales, RGPD, portée du simulateur et de
@@ -107,7 +119,8 @@ Ne pas mélanger : pas d'actu immo ni d'estimateur de prix ici, pas de contenu
 
 - **Honoraires** : 3 % sur le mandat de vente comme sur le mandat de recherche,
   taux fixe, sans montant plancher. Confirmé le 7 août 2026.
-- **Périmètre** : national. Confirmé le 7 août 2026.
+- **Périmètre** : vente et recherche au national, expertise en Île-de-France
+  seulement. Confirmé le 7 août 2026.
 - **Nom de domaine** : reste `cse.idf.immo` malgré le passage au national. Une
   adresse sans référence régionale a été signalée à Marie-Céline comme piste ;
   aucune décision prise à ce jour.
