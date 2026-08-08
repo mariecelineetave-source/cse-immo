@@ -2,9 +2,16 @@
 
 **CE = comité d'entreprise** (aujourd'hui CSE).
 
-Domaine : **cse.immo** (domaine racine, chez Gandi). Le site a d'abord vécu sur
-`cse.idf.immo` ; cette adresse redirige désormais vers `cse.immo` et ne doit
-plus apparaître nulle part dans les pages.
+Domaine : **cse.immo** (domaine racine, chez Gandi), et lui seul.
+
+Le site a brièvement vécu sur `cse.idf.immo` le 7 août 2026. Ce sous-domaine a
+été **définitivement supprimé** par Marie-Céline, sans redirection : décision
+assumée, l'adresse n'a jamais été diffusée. Ne jamais la réintroduire, ne jamais
+proposer de la rétablir.
+
+Il n'y a **pas d'adresse en `www`** : `www.cse.immo` n'existe pas et
+Marie-Céline n'en veut pas. Ne pas la remettre dans les liens, les exemples ni
+les consignes.
 
 Site de proposition commerciale de Marie-Céline Etave aux **comités d'entreprise,
 partout en France**. Objectif unique : convaincre les élus d'un CSE de la
@@ -123,9 +130,9 @@ Ne pas mélanger : pas d'actu immo ni d'estimateur de prix ici, pas de contenu
   taux fixe, sans montant plancher. Confirmé le 7 août 2026.
 - **Périmètre** : vente et recherche au national, expertise en Île-de-France
   seulement. Confirmé le 7 août 2026.
-- **Nom de domaine** : `cse.immo`, décidé le 7 août 2026 en même temps que le
-  passage au national. `cse.idf.immo` est conservé en redirection, jamais
-  supprimé.
+- **Nom de domaine** : `cse.immo` seul, décidé le 7 août 2026 en même temps que
+  le passage au national. `cse.idf.immo` supprimé sans redirection ; pas de
+  `www`. Décisions prises et confirmées par Marie-Céline.
 
 ## Contact — règle stricte
 
