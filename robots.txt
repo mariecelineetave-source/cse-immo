@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cse.idf.immo/sitemap.xml
+Sitemap: https://cse.immo/sitemap.xml
