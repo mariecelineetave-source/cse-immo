@@ -1,11 +1,22 @@
 # cse.idf.immo — consignes pour les sessions automatisées
 
-**CE = comité d'entreprise** (aujourd'hui CSE), **IDF = Île-de-France.**
+**CE = comité d'entreprise** (aujourd'hui CSE). **IDF** vient d'Île-de-France,
+périmètre d'origine du site.
 
-Site de proposition commerciale de Marie-Céline Etave aux **comités d'entreprise
-d'Île-de-France**. Objectif unique : convaincre les élus d'un CSE de la
+Site de proposition commerciale de Marie-Céline Etave aux **comités d'entreprise,
+partout en France**. Objectif unique : convaincre les élus d'un CSE de la
 référencer auprès de leurs salariés, pour la **vente** et la **recherche** de
 leur bien immobilier **personnel** (pas le patrimoine de l'entreprise).
+
+⚠️ **Le périmètre est national depuis le 7 août 2026** ; il était limité à
+l'Île-de-France auparavant. Ne réintroduire aucune restriction géographique
+dans les textes. Le nom de domaine, lui, contient encore `idf` : c'est un
+héritage assumé, à ne pas « corriger » dans les pages — seul un changement de
+domaine décidé par Marie-Céline pourra le résoudre.
+
+L'offre nationale ouvre un argument propre aux **entreprises multi-sites** : un
+accord avec le comité couvre tous les établissements, pas seulement le siège.
+C'est développé dans la FAQ, à conserver.
 
 L'offre faite aux salariés des entreprises partenaires :
 
@@ -37,7 +48,7 @@ aux élus, en levant d'abord la crainte que ça les engage.**
 
 - **antony.immo** — transaction locale à Antony (92), actu immo quotidienne,
   estimateur en ligne, expertise à 1 190 €. Grand public.
-- **cse.idf.immo** — offre comités d'entreprise, toute l'Île-de-France. Cible :
+- **cse.idf.immo** — offre comités d'entreprise, sur toute la France. Cible :
   les élus de CSE d'abord, les salariés ensuite.
 
 Ne pas mélanger : pas d'actu immo ni d'estimateur de prix ici, pas de contenu
@@ -92,13 +103,15 @@ Ne pas mélanger : pas d'actu immo ni d'estimateur de prix ici, pas de contenu
 - Push : `git push -u origin <branche>` ; en cas d'erreur réseau, retenter
   jusqu'à 4 fois (2, 4, 8, 16 s).
 
-## Points à confirmer avec Marie-Céline
+## Points tranchés par Marie-Céline
 
-- **Honoraires de recherche** : le site indique qu'aucun honoraire de recherche
-  supplémentaire n'est facturé au salarié acheteur. À confirmer et préciser si
-  besoin.
-- **Honoraires minimum** : aucun plancher n'est annoncé sur le site (ex.
-  « 3 %, minimum X € »). À ajouter si elle en pratique un.
+- **Honoraires** : 3 % sur le mandat de vente comme sur le mandat de recherche,
+  taux fixe, sans montant plancher. Confirmé le 7 août 2026.
+- **Périmètre** : national. Confirmé le 7 août 2026.
+- **Nom de domaine** : reste `cse.idf.immo` malgré le passage au national. Une
+  adresse sans référence régionale a été signalée à Marie-Céline comme piste ;
+  aucune décision prise à ce jour.
+
 ## Contact — règle stricte
 
 - **Adresse e-mail : `contact@idf.immo` uniquement.** Une seule boîte à la
