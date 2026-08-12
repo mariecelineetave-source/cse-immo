@@ -114,10 +114,10 @@ h3{font-size:1.35rem;font-weight:600}
 
 /* ============ Navigation ============ */
 .nav{position:fixed;inset-inline:0;top:0;z-index:50;transition:background-color .25s ease,box-shadow .25s ease}
-.nav-inner{display:flex;align-items:center;justify-content:space-between;padding-block:1.05rem}
+.nav-inner{display:flex;align-items:center;justify-content:space-between;gap:2rem;padding-block:1.05rem}
 .brand{font-family:"Fraunces",serif;font-size:1.28rem;font-weight:600;color:var(--stone);letter-spacing:.01em}
 .brand .dot{color:var(--cuivre)}
-.nav-links{display:flex;align-items:center;gap:1.7rem;list-style:none}
+.nav-links{display:flex;align-items:center;gap:1.35rem;list-style:none;flex-wrap:nowrap}
 .nav-links a{color:rgba(235,242,249,.88);font-size:.93rem;font-weight:500}
 .nav-links a:hover{color:#fff}
 .nav-links .btn{padding:.62rem 1.15rem}
@@ -127,7 +127,7 @@ h3{font-size:1.35rem;font-weight:600}
 .nav.scrolled .nav-links a{color:var(--encre)}
 .nav.scrolled .nav-links a:hover{color:var(--meuliere)}
 .nav.scrolled .nav-links a.btn-solid{color:#fff}
-@media (max-width:960px){
+@media (max-width:1120px){
   .nav-inner{flex-direction:column;gap:.45rem;padding-block:.7rem}
   .nav-links{flex-wrap:wrap;justify-content:center;gap:.35rem 1.1rem}
   .nav-links a{font-size:.85rem}
@@ -250,10 +250,7 @@ h3{font-size:1.35rem;font-weight:600}
 .steps p{font-size:.95rem;color:#33465C}
 
 /* ============ Bande ============ */
-.band{background:var(--buis);color:var(--stone);padding-block:5rem;position:relative;overflow:hidden}
-.band::before,.band::after{content:"";position:absolute;top:0;bottom:0;width:1px;background:rgba(235,242,249,.18)}
-.band::before{left:10%}
-.band::after{right:10%}
+.band{background:var(--buis);color:var(--stone);padding-block:5rem;overflow:hidden}
 .band .eyebrow{color:var(--cuivre)}
 .band h2{color:#F5F9FD}
 .band p{margin-top:1.2rem;max-width:62ch;color:rgba(235,242,249,.85)}
@@ -279,7 +276,7 @@ h3{font-size:1.35rem;font-weight:600}
 
 /* ============ À propos ============ */
 .apropos{display:grid;grid-template-columns:300px 1fr;gap:4rem;align-items:center}
-.portrait{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:50% 22%;background:var(--buis);border-radius:4px;display:block}
+.portrait{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:50% 30%;background:var(--buis);border-radius:4px;display:block}
 .apropos-txt h2{margin-bottom:1.2rem}
 .apropos-txt p{color:#33465C;margin-bottom:1rem;max-width:58ch}
 .creds{list-style:none;display:flex;flex-wrap:wrap;gap:.6rem;margin:1.2rem 0 1.4rem;padding:0}
