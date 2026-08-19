@@ -139,6 +139,22 @@ h3{font-size:1.35rem;font-weight:600}
   .nav-links .btn{padding:.5rem .95rem;font-size:.84rem}
 }
 
+/* Sur téléphone, le menu déplié dépasse la place réservée en haut du héros :
+   on le remet dans le flux de la page plutôt que de le laisser flotter. */
+@media (max-width:700px){
+  .nav{position:static;background:var(--ombre)}
+  .nav.scrolled{background:var(--ombre);box-shadow:none;backdrop-filter:none}
+  .nav.scrolled .brand{color:var(--stone)}
+  .nav.scrolled .brand .dot{color:var(--cuivre)}
+  .nav.scrolled .nav-links a{color:rgba(235,242,249,.88)}
+  .nav.scrolled .nav-links a.btn-solid{color:var(--ombre)}
+  .hero{min-height:auto;padding:2.2rem 0 4rem}
+  section[id]{scroll-margin-top:12px}
+}
+
+/* Le menu fixe masquait le début des sections quand on clique dans le menu. */
+section[id]{scroll-margin-top:126px}
+
 /* ============ Héros ============ */
 .hero{
   position:relative;min-height:94vh;
